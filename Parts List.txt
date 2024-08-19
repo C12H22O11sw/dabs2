@@ -1,0 +1,6 @@
+For 75mm or 98mm models:
+    Propellers:
+               2x https://www.apcprop.com/product/5x7-5e/
+               2x https://www.apcprop.com/product/5x7-5ep/
+    Motors:
+        4x https://www.scorpionsystem.com/catalog/boat/motor_3/is-28_1/IS_2840_5100/
